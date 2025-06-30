@@ -1,4 +1,4 @@
-# Introducción a Inteligencia Artificial con poco código
+# Introducción a Inteligencia Artificial e Internet de las Cosas
 
 Accede a los materiales aquí 👉🏻 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=gabyarellano/Seminario_LowCodeAI&file=VirtualSensorModel.mlx)
 
