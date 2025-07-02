@@ -1,5 +1,4 @@
-# Inteligencia Artificial e Internet de las Cosas: 
-## Aprende sobre tecnología que transforma nuestro mundo
+## Inteligencia Artificial e Internet de las Cosas: Aprende sobre tecnología que transforma nuestro mundo
 
 
 ¿Sabías que hoy en día muchas fábricas, hospitales y empresas usan robots,
