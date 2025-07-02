@@ -3,13 +3,12 @@
 
 ¿Sabías que hoy en día muchas fábricas, hospitales y empresas usan robots,
 sensores y computadoras inteligentes para hacer su trabajo más rápido y mejor? 
-
 A esto se le llama Industria 4.0, y dos de sus herramientas más importantes 
-son la Inteligencia Artificial (IA) y el Internet de las Cosas (IoT), 
+son la **Inteligencia Artificial (IA)** y el **Internet de las Cosas (IoT)**, 
 que permite que los objetos se conecten y compartan información entre sí. 
 
 En este taller divertido y práctico, vas a conocer una rama de la IA 
-llamada deep learning o "aprendizaje profundo", que ayuda a las computadoras 
+llamada deep learning o **"aprendizaje profundo"**, que ayuda a las computadoras 
 a aprender a reconocer imágenes, sonidos y mucho más, ¡casi como lo hace nuestro cerebro!
 
 Usando la cámara web de tu computadora y con ejercicios fáciles, aprenderás a:
