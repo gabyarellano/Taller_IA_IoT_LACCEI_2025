@@ -1,28 +1,29 @@
-# Introducción a Inteligencia Artificial e Internet de las Cosas
+# Inteligencia Artificial e Internet de las Cosas: 
+## Aprende sobre tecnología que transforma nuestro mundo
 
-Accede a los materiales aquí 👉🏻 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=gabyarellano/Seminario_LowCodeAI&file=VirtualSensorModel.mlx)
 
-Aprende cómo puedes aplicar técnicas de inteligencia artificial utilizando 
-herramientas interactivas en MATLAB. A través de demostraciones en vivo y 
-ejemplos, verás cómo puedes resolver muchas etapas de un flujo de trabajo 
-de inteligencia artificial sin necesidad de escribir código. 
-Luego, las herramientas interactivas pueden generar automáticamente el 
-código MATLAB necesario para reproducir tu trabajo de forma programática. 
+¿Sabías que hoy en día muchas fábricas, hospitales y empresas usan robots,
+sensores y computadoras inteligentes para hacer su trabajo más rápido y mejor? 
 
-Esta sesión está dirigida a quienes son nuevos en MATLAB, aunque los usuarios
- con experiencia también se beneficiarán, ya que se mostrarán nuevas 
-herramientas, consejos y trucos de las versiones más recientes de MATLAB.
+A esto se le llama Industria 4.0, y dos de sus herramientas más importantes 
+son la Inteligencia Artificial (IA) y el Internet de las Cosas (IoT), 
+que permite que los objetos se conecten y compartan información entre sí. 
 
-Aspectos destacados incluyen:
+En este taller divertido y práctico, vas a conocer una rama de la IA 
+llamada deep learning o "aprendizaje profundo", que ayuda a las computadoras 
+a aprender a reconocer imágenes, sonidos y mucho más, ¡casi como lo hace nuestro cerebro!
 
-* Acceso a datos desde múltiples fuentes (archivos, otros programas, hardware, etc.)
+Usando la cámara web de tu computadora y con ejercicios fáciles, aprenderás a:
 
-* Uso de herramientas interactivas para visualización, limpieza y modelado de datos
+- Usar redes neuronales para que la computadora pueda reconocer imágenes.
+- Agregar y analizar datos en tiempo real, como lo hacen los dispositivos conectados a Internet (IoT).
+- Crear reportes automáticos de lo que las computadoras de los demás participantes han observado.
 
-* Generación automática de código para replicar el trabajo interactivo
+No necesitas experiencia previa, solo curiosidad y ganas de experimentar. 
+Nuestro objetivo es que te diviertas y te animes a aprender y crear tus propios proyectos 
+usando estas tecnologías después del taller.
 
-* Captura del flujo de trabajo en scripts y funciones fáciles de mantener
+¡Ven y descubre cómo la inteligencia artificial y el Internet de las Cosas 
+están cambiando el mundo, y cómo tú también puedes ser parte de esta revolución tecnológica!
 
-* Compartir resultados mediante la creación automática de informes
-
-* Desarrollo progresivo de habilidades de programación más allá de lo básico
+### Accede a los materiales aquí  👉🏻 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=gabyarellano/Taller_IA_IoT_LACCEI_2025&file=Ejercicio1.mlx)
